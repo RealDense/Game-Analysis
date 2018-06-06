@@ -137,7 +137,7 @@ print('Regular Play   ', wins / float(GAMESTOPLAY)*100, '%', sep='')
 
 
 #Play with a reverve
-
+'''
 wins = 0
 
 for x in range(GAMESTOPLAY):
@@ -210,3 +210,4 @@ for x in range(GAMESTOPLAY):
 print (len(board[12][0]))
 print(wins)
 print('Reserve Play   ', wins / float(GAMESTOPLAY)*100, '%', sep='')
+'''
